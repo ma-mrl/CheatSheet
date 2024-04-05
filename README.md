@@ -17,4 +17,4 @@ Possible topics could be:
 
 Your site should utilize a custom color scheme.
 
-Your site should use custom styles for any code such as HTML tags, like &lt;h1&gt, or CSS properties or values, like font-family. Represent code using a monospace font family and a different background color.
+Your site should use custom styles for any code such as HTML tags, like &lt;h1&gt;, or CSS properties or values, like font-family. Represent code using a monospace font family and a different background color.
